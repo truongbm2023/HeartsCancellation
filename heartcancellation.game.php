@@ -1,18 +1,8 @@
 <?php
 /**
-  *------
-  * BGA framework: Â© Gregory Isabelli <gisabelli@boardgamearena.com> & Emmanuel Colin <ecolin@boardgamearena.com>
-  * Hearts implementation : Â© Gregory Isabelli <gisabelli@boardgamearena.com>
   * 
-  * This code has been produced on the BGA studio platform for use on http://boardgamearena.com.
-  * See http://en.boardgamearena.com/#!doc/Studio for more information.
-  * -----
-  * 
-  * hearts.game.php
   *
-  * This is the main file for your game logic.
-  *
-  * In this PHP file, you are going to defines the rules of the game.
+  * In this PHP file, defines the rules of the game.
   *
   */  
   
